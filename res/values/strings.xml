@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog box</string>
+    <string name="button">Button</string>
+    <string name="successfull">Successfull</string>
+</resources>
